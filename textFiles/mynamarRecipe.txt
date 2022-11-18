@@ -1,0 +1,140 @@
+        **  Mynamar food List with description, price and recipe **
+Mynamar Dish 1
+    Description:
+        The countries go-to meat dish as curtis describes it, is usually made 
+        from beef cut into small chunks and sauteed in butter or oil with onions,
+        garlic, hot pepper and rosemary. You will find this on most general
+        Ethiopian menus, served with injera, naturally.    
+    Price:
+500
+    Recipe:
+        1.  Melt the niter kibbeh in a Dutch oven over medium heat, 
+            then add the onions, ginger, cumin, pepper, garlic and berbere spice.
+        2.  Reduce heat to medium-low, and cook, stirring frequently,
+            for about 30 minutes, or until onions are golden brown.
+        3.  Towards the end of cooking, the onions should sizzle slightly,
+            so if necessary, increase the heat.
+        4.  Transfer half of the onions to a blender, puree them, and pour them
+            back into the pot with the rest. Salt and mix well.
+STOP!
+
+Mynamar Dish 2
+    Description:
+        Tartare fans, this might be your favorite new Ethiopian dish. 
+        Kitfo is ground raw beef that’s been mixed with kibbe, the 
+        spiced clarified butter. It can be accompanied by mitmita,
+        another popular Ethiopian spice blend. The result melts 
+        in your mouth and tastes great with the typical accompaniments 
+        of gomen (cooked greens) and a soft fresh cheese. 
+    Price:
+1000
+    Recipe:
+        1.  Melt the niter kibbeh in a Dutch oven over medium heat, 
+            then add the onions, ginger, cumin, pepper, garlic and berbere spice.
+        2.  Reduce heat to medium-low, and cook, stirring frequently,
+            for about 30 minutes, or until onions are golden brown.
+        3.  Towards the end of cooking, the onions should sizzle slightly,
+            so if necessary, increase the heat.
+        4.  Transfer half of the onions to a blender, puree them, and pour them
+            back into the pot with the rest. Salt and mix well.
+STOP!
+
+Mynamar Dish 3
+    Description:
+        On my Addis Eats walking tour, we sampled doro wat, a rich red-colored
+        chicken stew Richman describes as “iconic.” We were lucky to eat it in
+        a restaurant, since the dish is usually “hard to find, because it’s 
+        generally made in people’s homes,” she explains. Good doro wat should
+        be prepared with Ethiopian chickens raised free-range on small farms,
+        rather than the larger “farangi” (foreigner) chickens you can also 
+        find in the country. The stew gets its deep red hue from berbere, 
+        and the richness is often offset with an accompaniment 
+        of fresh cheese and gomen (stewed greens).
+    Price:
+700
+    Recipe:
+        1.  Melt the niter kibbeh in a Dutch oven over medium heat, 
+            then add the onions, ginger, cumin, pepper, garlic and berbere spice.
+        2.  Reduce heat to medium-low, and cook, stirring frequently,
+            for about 30 minutes, or until onions are golden brown.
+        3.  Towards the end of cooking, the onions should sizzle slightly,
+            so if necessary, increase the heat.
+        4.  Transfer half of the onions to a blender, puree them, and pour them
+            back into the pot with the rest. Salt and mix well.
+STOP!
+
+Shiro
+    Description:
+        The countries go-to meat dish as curtis describes it, is usually made 
+        from beef cut into small chunks and sauteed in butter or oil with onions,
+        garlic, hot pepper and rosemary. You will find this on most general
+        Ethiopian menus, served with injera, naturally.    
+    Price:
+250
+    Recipe:
+        1.  Melt the niter kibbeh in a Dutch oven over medium heat, 
+            then add the onions, ginger, cumin, pepper, garlic and berbere spice.
+        2.  Reduce heat to medium-low, and cook, stirring frequently,
+            for about 30 minutes, or until onions are golden brown.
+        3.  Towards the end of cooking, the onions should sizzle slightly,
+            so if necessary, increase the heat.
+        4.  Transfer half of the onions to a blender, puree them, and pour them
+            back into the pot with the rest. Salt and mix well.
+STOP!
+
+Mynamar Dish 4
+    Description:
+        The countries go-to meat dish as curtis describes it, is usually made 
+        from beef cut into small chunks and sauteed in butter or oil with onions,
+        garlic, hot pepper and rosemary. You will find this on most general
+        Ethiopian menus, served with injera, naturally.    
+    Price:
+100
+    Recipe:
+        1.  Melt the niter kibbeh in a Dutch oven over medium heat, 
+            then add the onions, ginger, cumin, pepper, garlic and berbere spice.
+        2.  Reduce heat to medium-low, and cook, stirring frequently,
+            for about 30 minutes, or until onions are golden brown.
+        3.  Towards the end of cooking, the onions should sizzle slightly,
+            so if necessary, increase the heat.
+        4.  Transfer half of the onions to a blender, puree them, and pour them
+            back into the pot with the rest. Salt and mix well.
+STOP!
+
+Mynamar Dish 5
+    Description:
+        The countries go-to meat dish as curtis describes it, is usually made 
+        from beef cut into small chunks and sauteed in butter or oil with onions,
+        garlic, hot pepper and rosemary. You will find this on most general
+        Ethiopian menus, served with injera, naturally.    
+    Price:
+200
+    Recipe:
+        1.  Melt the niter kibbeh in a Dutch oven over medium heat, 
+            then add the onions, ginger, cumin, pepper, garlic and berbere spice.
+        2.  Reduce heat to medium-low, and cook, stirring frequently,
+            for about 30 minutes, or until onions are golden brown.
+        3.  Towards the end of cooking, the onions should sizzle slightly,
+            so if necessary, increase the heat.
+        4.  Transfer half of the onions to a blender, puree them, and pour them
+            back into the pot with the rest. Salt and mix well.
+STOP!
+
+Mynamar Dish 6
+    Description:
+        The countries go-to meat dish as curtis describes it, is usually made 
+        from beef cut into small chunks and sauteed in butter or oil with onions,
+        garlic, hot pepper and rosemary. You will find this on most general
+        Ethiopian menus, served with injera, naturally.    
+    Price:
+300
+    Recipe:
+        1.  Melt the niter kibbeh in a Dutch oven over medium heat, 
+            then add the onions, ginger, cumin, pepper, garlic and berbere spice.
+        2.  Reduce heat to medium-low, and cook, stirring frequently,
+            for about 30 minutes, or until onions are golden brown.
+        3.  Towards the end of cooking, the onions should sizzle slightly,
+            so if necessary, increase the heat.
+        4.  Transfer half of the onions to a blender, puree them, and pour them
+            back into the pot with the rest. Salt and mix well.
+STOP!

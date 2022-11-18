@@ -1,0 +1,125 @@
+        ** Syrian food list and description with price and receipt **
+Syrian Shawarma
+    Description:
+        Shawarma is one of the most famous street foods in the Middle East. 
+        The roots of this delicious dish go back to the Levant and the Ottoman Empire,
+        when, in 1906, Sadeeq Khabaz left his restaurant job in Bursa and traveled to
+        Damascus to open a shawarma restaurant. Khabaz adapted the recipe, introducing
+        the distinct taste of the Syrian shawarma.
+        
+        Shawarma consists of chicken breast and special spices. The meat is placed on
+        a metal skewer and rotates on a vertical grill. As the meat cooks, thin slices
+        are cut from the skewer with a very long, sword-like knife. The chicken slices
+        are then placed on home-made bread, along with pickled cucumber and a special garlic cream. 
+    Price:
+500
+    Recipe:
+        1.  Melt the niter kibbeh in a Dutch oven over medium heat, 
+            then add the onions, ginger, cumin, pepper, garlic and berbere spice.
+        2.  Reduce heat to medium-low, and cook, stirring frequently,
+            for about 30 minutes, or until onions are golden brown.
+        3.  Towards the end of cooking, the onions should sizzle slightly,
+            so if necessary, increase the heat.
+        4.  Transfer half of the onions to a blender, puree them, and pour them
+            back into the pot with the rest. Salt and mix well.
+STOP!
+
+Yabrak
+    Description:
+        The Syrian yabrak plate goes back to Ottoman times. The name yabrak is Turkish,
+        meaning leaves of the vine. Yabrak became popular in the Levant as an appetizer
+        or a main course. Yabrak leaves stuffed with rice and meat are served hot as a 
+        main meal. Yalanji, on the other hand, are leaves stuffed with rice and 
+        vegetables, cooked in a tangy sauce with olive oil, and served cold as an appetizer.
+    Price:
+700
+    Recipe:
+        1.  Melt the niter kibbeh in a Dutch oven over medium heat, 
+            then add the onions, ginger, cumin, pepper, garlic and berbere spice.
+        2.  Reduce heat to medium-low, and cook, stirring frequently,
+            for about 30 minutes, or until onions are golden brown.
+        3.  Towards the end of cooking, the onions should sizzle slightly,
+            so if necessary, increase the heat.
+        4.  Transfer half of the onions to a blender, puree them, and pour them
+            back into the pot with the rest. Salt and mix well.
+STOP!
+
+Kibbeh 
+    Description:
+        Kibbeh Kezabah colloquially means ‘lying Kibbeh’! It took on this name
+        because it does not contain any meat—the implication being that those 
+        who eat it are deceived by its excellent taste. Adopted from Turkish 
+        cuisine, Kibbeh Kezabah is one of the most popular appetizers in the 
+        Middle East. It can be eaten with lettuce, lemon, or stuffed in a steaming vine leaf.
+    Price:
+300
+    Recipe:
+        1.  Melt the niter kibbeh in a Dutch oven over medium heat, 
+            then add the onions, ginger, cumin, pepper, garlic and berbere spice.
+        2.  Reduce heat to medium-low, and cook, stirring frequently,
+            for about 30 minutes, or until onions are golden brown.
+        3.  Towards the end of cooking, the onions should sizzle slightly,
+            so if necessary, increase the heat.
+        4.  Transfer half of the onions to a blender, puree them, and pour them
+            back into the pot with the rest. Salt and mix well.
+              and cook for about 40 minutes on low heat.
+STOP!
+
+Syrian Desert
+    Description:
+        The Syrian yabrak plate goes back to Ottoman times. The name yabrak is Turkish,
+        meaning leaves of the vine. Yabrak became popular in the Levant as an appetizer
+        or a main course. Yabrak leaves stuffed with rice and meat are served hot as a 
+        main meal. Yalanji, on the other hand, are leaves stuffed with rice and 
+        vegetables, cooked in a tangy sauce with olive oil, and served cold as an appetizer.    
+    Price:
+250
+    Recipe:
+        1.  Melt the niter kibbeh in a Dutch oven over medium heat, 
+            then add the onions, ginger, cumin, pepper, garlic and berbere spice.
+        2.  Reduce heat to medium-low, and cook, stirring frequently,
+            for about 30 minutes, or until onions are golden brown.
+        3.  Towards the end of cooking, the onions should sizzle slightly,
+            so if necessary, increase the heat.
+        4.  Transfer half of the onions to a blender, puree them, and pour them
+            back into the pot with the rest. Salt and mix well.
+STOP!
+
+Syrian flafel
+	Description
+        The Syrian yabrak plate goes back to Ottoman times. The name yabrak is Turkish,
+        meaning leaves of the vine. Yabrak became popular in the Levant as an appetizer
+        or a main course. Yabrak leaves stuffed with rice and meat are served hot as a 
+        main meal. Yalanji, on the other hand, are leaves stuffed with rice and 
+        vegetables, cooked in a tangy sauce with olive oil, and served cold as an appetizer.
+    Price:
+400    Recipe:
+        1.  Melt the niter kibbeh in a Dutch oven over medium heat, 
+            then add the onions, ginger, cumin, pepper, garlic and berbere spice.
+        2.  Reduce heat to medium-low, and cook, stirring frequently,
+            for about 30 minutes, or until onions are golden brown.
+        3.  Towards the end of cooking, the onions should sizzle slightly,
+            so if necessary, increase the heat.
+        4.  Transfer half of the onions to a blender, puree them, and pour them
+            back into the pot with the rest. Salt and mix well.
+STOP!
+
+Syrian dish 6
+	Description
+        The Syrian yabrak plate goes back to Ottoman times. The name yabrak is Turkish,
+        meaning leaves of the vine. Yabrak became popular in the Levant as an appetizer
+        or a main course. Yabrak leaves stuffed with rice and meat are served hot as a 
+        main meal. Yalanji, on the other hand, are leaves stuffed with rice and 
+        vegetables, cooked in a tangy sauce with olive oil, and served cold as an appetizer.
+    Price:
+600
+    Recipe:
+        1.  Melt the niter kibbeh in a Dutch oven over medium heat, 
+            then add the onions, ginger, cumin, pepper, garlic and berbere spice.
+        2.  Reduce heat to medium-low, and cook, stirring frequently,
+            for about 30 minutes, or until onions are golden brown.
+        3.  Towards the end of cooking, the onions should sizzle slightly,
+            so if necessary, increase the heat.
+        4.  Transfer half of the onions to a blender, puree them, and pour them
+            back into the pot with the rest. Salt and mix well.
+STOP!
